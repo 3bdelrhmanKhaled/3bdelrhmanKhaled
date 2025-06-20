@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **Telecommunications Engineering** graduate  
-- 🚀 Built a graduation project: [WattsGuard ⚡](https://github.com/USERNAME/WattsGuard) – A smart electricity monitoring system with theft detection  
-- 💼 Currently focusing on **.NET backend development**, **APIs**, and **IoT integration**  
-- 🔭 Always learning new technologies and building practical stuff  
-- 🛠️ Interested in **Embedded Systems**, **Cloud APIs**, and **Security**  
+- 🚀 Built a graduation project: [WattsGuard ⚡](https://github.com/3bdelrhmanKhaled/WattsGuard) – A smart electricity monitoring system with theft detection  
+- 💼 Currently focusing on **.NET backend development**, **REST APIs**, and **IoT integration**  
+- 🔭 Always learning new technologies and building practical solutions  
+- 🛠️ Interested in **Embedded Systems**, **Cloud APIs**, and **Cybersecurity**  
 
 ---
 
@@ -40,16 +40,16 @@
 📈 Integrated Python for data visualization  
 🔐 Secured with JWT & ASP.NET Identity
 
-> [🔗 View the Project](https://github.com/USERNAME/WattsGuard)
+> 🔗 [View the Project](https://github.com/3bdelrhmanKhaled/WattsGuard)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="Abdelrahman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3bdelrhmanKhaled&show_icons=true&theme=radical" alt="Abdelrahman's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrhmanKhaled&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -57,12 +57,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/abdelrhman-khaled-b58921241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:a01013946828@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdelrhman-khaled-b58921241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/3bdelrhmanKhaled"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-<!-- Optional Spotify, WakaTime, or Article Sections can go here -->
-
