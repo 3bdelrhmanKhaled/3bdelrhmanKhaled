@@ -1,63 +1,64 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate Backend Developer from Egypt 🇪🇬</h3>
+<h1 align="center">I'm Abdelrahman Khaled</h1>
+
+<h2 align="center">Software Engineer | .NET Backend Developer | IoT & Embedded Enthusiast</h2><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;ASP.NET+Core+Lover;Arduino+Integration+Expert;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/abdelrhman-khaled-b58921241">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Explore%20My%20Projects;Follow%20For%20.NET%20Tips%20%26%20Insights;Let's%20Connect%20On%20LinkedIn&font=Fira%20Code&center=true&color=0DB3A6&pause=2000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3bdelrhmanKhaled&style=flat&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 I'm a **Telecommunications Engineering** graduate  
-- 🚀 Built a graduation project: [WattsGuard ⚡](https://github.com/3bdelrhmanKhaled/WattsGuard) – A smart electricity monitoring system with theft detection  
-- 💼 Currently focusing on **.NET backend development**, **REST APIs**, and **IoT integration**  
-- 🔭 Always learning new technologies and building practical solutions  
-- 🛠️ Interested in **Embedded Systems**, **Cloud APIs**, and **Cybersecurity**  
+### 📤 Connect with Me
+<p align="left">
+  <a href="mailto:a01013946828@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/abdelrhman-khaled-b58921241">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/3bdelrhmanKhaled">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🧰 Tech Stack
-
+### 💻 Languages & Tools
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=efcore&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,arduino,postman,swagger,git,js,html,css,docker" />
 </p>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Project: WattsGuard ⚡  
+A smart electricity monitoring system that detects abnormal consumption and potential theft.
 
-#### ⚡ WattsGuard - Smart Electricity Monitoring System  
-🔌 Built with **ASP.NET Core**, **SQL Server**, **EF Core**, and **Arduino**  
-📊 Detects anomalies and possible electricity theft  
-📈 Integrated Python for data visualization  
-🔐 Secured with JWT & ASP.NET Identity
+🔧 Stack: ASP.NET Core, EF Core, SQL Server, JWT, Arduino, Python  
+📈 Real-time analytics and charting  
+🔐 Secured with role-based authentication  
 
-> 🔗 [View the Project](https://github.com/3bdelrhmanKhaled/WattsGuard)
+> 🔗 [View Project on GitHub](https://github.com/3bdelrhmanKhaled/WattsGuard)
+
+---
+
+### 🏆 GitHub Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=3bdelrhmanKhaled&theme=darkhub&column=7"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3bdelrhmanKhaled&show_icons=true&theme=radical" alt="Abdelrahman's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdelrhmanKhaled&layout=compact&theme=radical" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdelrhmanKhaled&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
----
-
-### 📫 Connect with Me
-
 <p>
-  <a href="mailto:a01013946828@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdelrhman-khaled-b58921241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/3bdelrhmanKhaled"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
