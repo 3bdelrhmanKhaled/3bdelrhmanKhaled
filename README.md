@@ -1,6 +1,6 @@
 <h1 align="center">I'm Abdelrahman Khaled</h1>
 
-<h2 align="center">Software Engineer | .NET Backend Developer | IoT & Embedded Enthusiast</h2><br>
+<h2 align="center">Software Engineer | .NET Backend Developer </h2><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-khaled-b58921241">
